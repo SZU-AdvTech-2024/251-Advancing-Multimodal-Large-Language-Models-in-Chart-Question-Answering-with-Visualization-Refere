@@ -1,0 +1,3 @@
+Visual: 89.76
+Compositional: 91.84
+Data retrieval: 94.11

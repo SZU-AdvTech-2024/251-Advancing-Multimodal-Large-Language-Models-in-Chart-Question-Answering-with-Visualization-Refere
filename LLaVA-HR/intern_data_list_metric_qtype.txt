@@ -1,0 +1,7 @@
+maximum: 0.00
+average: 71.64
+sum up: 52.50
+count: 0.00
+sum: 0.00
+difference: 70.42
+ratio: 0.00
